@@ -30,21 +30,21 @@ How to Run
 
 git clone https://github.com/your-username/library-management-system.git
 cd library-management-system
-
+'''
 
 - Compile the Java files:
 
 '''sh
 
 javac -d . book.java books.java student.java students.java library.java
-
+'''
 
 - Run the application:
 
 '''sh
 
 java Library.Library
-
+'''
 
 - Usage
 Upon running the application, you will be presented with a menu to select various operations. Follow the prompts to add books, search for books, register students, and manage book checkouts and check-ins.
@@ -63,3 +63,4 @@ Press 5 to Register Student.
 Press 6 to Show All Registered Students.
 Press 7 to Check Out Book.
 Press 8 to Check In Book
+'''

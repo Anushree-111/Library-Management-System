@@ -26,7 +26,7 @@ How to Run
 
 - Clone the repository:
 
-'''sh
+''' sh
 
 git clone https://github.com/your-username/library-management-system.git
 cd library-management-system
@@ -34,14 +34,14 @@ cd library-management-system
 
 - Compile the Java files:
 
-'''sh
+''' sh
 
 javac -d . book.java books.java student.java students.java library.java
 '''
 
 - Run the application:
 
-'''sh
+''' sh
 
 java Library.Library
 '''
@@ -49,7 +49,7 @@ java Library.Library
 - Usage
 Upon running the application, you will be presented with a menu to select various operations. Follow the prompts to add books, search for books, register students, and manage book checkouts and check-ins.
 
-'''sh
+''' sh
 
 ********************Welcome to the GFG Library!********************
                  Select From The Following Options:             
